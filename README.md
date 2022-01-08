@@ -6,7 +6,7 @@
 
 - Overview
 
-A deep learning project for Real time car accident alert system through live CCTV cameras will be bulid to save lives.for resion delayed medical attention, the accident victims might die as well. As a solution to these problems, we introduce a system that detects road accidents and will provide an alert message to the most proximate control room immediately. The camera module of the system is deployed in accident-prone areas. Whenever an accident occurs, it will detect the accident and immediately report it to the nearby control room. The working of the system is based on deep learning techniques that use convolutional neural networks.
+A deep learning project for car accident alert system through live CCTV cameras will be bulid to save lives.for resion delayed medical attention, the accident victims might die as well. As a solution to these problems, we introduce a system that detects road accidents and will provide an alert message to the most proximate control room immediately. The camera module of the system is deployed in accident-prone areas. Whenever an accident occurs, it will detect the accident and immediately report it to the nearby control room. The working of the system is based on deep learning techniques that use convolutional neural networks.
 
 
 
